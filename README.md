@@ -36,4 +36,7 @@ The cleaned dataset is named “**FM_data_final.dta**”. We only upload the cle
 
 3. To start, change the mainpath directory to your local folder. In **FM_import.do**, the list of folders will be created under the mainpath for figures and table results.
 
+4. For figures, run **data_plot.R**.
 
+(a) The data-plotting datasets are derived from the original datasets and the regression coefficients. To save your time, please download **plot.zip** to get access to the cleaned datasets directly. <br/>
+(b) Please change the *figpath* at the beginning of **data_plot.R** before proceeding. 
