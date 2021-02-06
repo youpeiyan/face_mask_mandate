@@ -1,5 +1,9 @@
 README
 
+The following data and the code instruction are for the paper:</br>
+Yan, Y., Bayham, J., Richter, A. et al. Risk compensation and face mask mandates during the COVID-19 pandemic. Sci Rep 11, 3174 (2021). https://doi.org/10.1038/s41598-021-82574-w
+
+
 1. We use both public datasets and purchased datasets for this research. The step-by-step data importing and cleaning steps are shown in the files:
 
 **FM_import.do** <br/>
